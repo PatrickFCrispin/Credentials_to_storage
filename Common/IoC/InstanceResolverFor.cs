@@ -13,7 +13,7 @@ namespace Common.IoC
 	{
 		public static Func<TContract> InstanceBuilder { get; set; }
 
-		public static TContract Instance { get { return InstanceBuilder(); } }
+		public static TContract Instance { get => InstanceBuilder(); }
 
         public static void Configure(Expression<Func<TContract>> instance)
 		{
