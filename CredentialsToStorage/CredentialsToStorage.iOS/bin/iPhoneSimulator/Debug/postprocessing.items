@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CredentialsToStorage.iOS.app/CredentialsToStorage.iOS">
+      <BCSymbolMapName>CredentialsToStorage.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CredentialsToStorage.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj\iPhoneSimulator\Debug\mtouch-symbols.list</SymbolFile>
+      <DSymName>CredentialsToStorage.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\CredentialsToStorage\CredentialsToStorage.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

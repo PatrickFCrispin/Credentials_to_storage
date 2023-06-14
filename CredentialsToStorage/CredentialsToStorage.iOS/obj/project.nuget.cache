@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qp52ibyrP+46n0/yhvr71pNQVdonnSmEwRSe3ObWFjL01CFhWn+128f0KUUqeB7Q7HzqUvQdbUCvCzChFZtz9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\Credentials_to_storage\\CredentialsToStorage\\CredentialsToStorage.iOS\\CredentialsToStorage.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patri\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VpJG/oklX+0KfzBIjtWxqPUwBSQ+WzoGmNAj4iihsevcoOWYM7rmoBRne5iqbFizFJtiGVHbABeozEtC1zo2bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\Credentials_to_storage\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

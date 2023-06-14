@@ -1,0 +1,60 @@
+C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\patrick.fonseca\Desktop\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\CredentialsToStorage\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Patri\OneDrive\Área de Trabalho\CredentialsToStorage\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\CredentialsToStorage\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patri\OneDrive\Área de Trabalho\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Patri\OneDrive\Área de Trabalho\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\CredentialsToStorage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\Sec_Key_Chain_iOS\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Patri\OneDrive\Área de Trabalho\Sec_Key_Chain_iOS\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\Sec_Key_Chain_iOS\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\Sec_Key_Chain_iOS\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\Sec_Key_Chain_iOS\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patri\OneDrive\Área de Trabalho\Sec_Key_Chain_iOS\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\Sec_Key_Chain_iOS\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Patri\OneDrive\Área de Trabalho\Sec_Key_Chain_iOS\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\Sec_Key_Chain_iOS\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\Sec_Key_Chain_iOS\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\CredentialsToStorage\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\CredentialsToStorage\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\teste\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Patri\OneDrive\Área de Trabalho\teste\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\teste\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\teste\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\teste\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patri\OneDrive\Área de Trabalho\teste\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\teste\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Patri\OneDrive\Área de Trabalho\teste\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\teste\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\teste\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\Credentials_to_storage\Common\obj\Debug\netstandard2.0\Common.pdb
